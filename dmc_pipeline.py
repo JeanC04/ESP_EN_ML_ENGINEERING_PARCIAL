@@ -13,7 +13,7 @@ from autoML import MLSystem
 from kaggle.api.kaggle_api_extended import KaggleApi
 import zipfile
 os.environ['KAGGLE_USERNAME'] = 'jeanc2020'
-os.environ['KAGGLE_KEY'] = 'f8728d7d3759bbcb803f348cfddfd297'
+os.environ['KAGGLE_KEY'] = '386b967ea871ca74d8353b9955913328'
 
 default_args = {
     'owner': 'airflow',
